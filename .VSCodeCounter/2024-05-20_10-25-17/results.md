@@ -1,0 +1,21 @@
+# Summary
+
+Date : 2024-05-20 10:25:17
+
+Directory /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/interfaces
+
+Total : 1 files,  99 codes, 9 comments, 25 blanks, all 133 lines
+
+Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
+
+## Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| TypeScript | 1 | 99 | 9 | 25 | 133 |
+
+## Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 1 | 99 | 9 | 25 | 133 |
+
+Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)

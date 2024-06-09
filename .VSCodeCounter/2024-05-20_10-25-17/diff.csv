@@ -1,0 +1,13 @@
+"filename", "language", "TypeScript", "TypeScript JSX", "comment", "blank", "total"
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/ChatsContext.tsx", "TypeScript JSX", 0, 0, 0, -1, -1
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/CurrentRoomIdContext.tsx", "TypeScript JSX", 0, -22, 0, -6, -28
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/ParticipantsContext.tsx", "TypeScript JSX", 0, -53, 0, -19, -72
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/VideosContext.tsx", "TypeScript JSX", 0, -107, -73, -67, -247
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AuthContext.tsx", "TypeScript JSX", 0, -25, 0, -5, -30
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/DestinationContext.tsx", "TypeScript JSX", 0, -46, 0, -10, -56
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/EmailContext.tsx", "TypeScript JSX", 0, -21, -13, -5, -39
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/RoomInvitesContext.tsx", "TypeScript JSX", 0, -52, 0, -21, -73
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/RoomSummaryContext.tsx", "TypeScript JSX", 0, -47, -87, -38, -172
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/UserAccountDetailsContext.tsx", "TypeScript JSX", 0, -68, -256, -108, -432
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/interfaces/types.ts", "TypeScript", 99, 0, 9, 25, 133
+"Total", "-", 99, -441, -420, -255, -1017

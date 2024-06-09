@@ -1,0 +1,36 @@
+"filename", "language", "TypeScript JSX", "CSS", "TypeScript", "comment", "blank", "total"
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/interfaces/types.ts", "TypeScript", 0, 0, -99, -9, -25, -133
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Button-Login-SignUp/Continuewithgoogle.tsx", "TypeScript JSX", 16, 0, 0, 0, 6, 22
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Button-Login-SignUp/Signupwithgoogle.tsx", "TypeScript JSX", 15, 0, 0, 0, 5, 20
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/ChatBoxButtons/AttachmentButton.tsx", "TypeScript JSX", 8, 0, 0, 0, 1, 9
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/ChatBoxButtons/ChatSendButton.tsx", "TypeScript JSX", 8, 0, 0, 0, 1, 9
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/ChatBoxButtons/VideoCallButton.tsx", "TypeScript JSX", 10, 0, 0, 0, 2, 12
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/MyAccount.tsx", "TypeScript JSX", 9, 0, 0, 0, 1, 10
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/RoomButtons/Editors.tsx", "TypeScript JSX", 96, 0, 0, 4, 15, 115
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/RoomButtons/UploadFile.tsx", "TypeScript JSX", 15, 0, 0, 0, 4, 19
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/RoomButtons/UploadVideo.tsx", "TypeScript JSX", 24, 0, 0, 9, 12, 45
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/SideNavButtons/CreateRoomButton.tsx", "TypeScript JSX", 25, 0, 0, 0, 7, 32
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/SideNavButtons/DashboardButton.tsx", "TypeScript JSX", 14, 0, 0, 0, 4, 18
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/SideNavButtons/LogoutButton.tsx", "TypeScript JSX", 33, 0, 0, 0, 6, 39
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/SideNavButtons/RoomInvitesButton.tsx", "TypeScript JSX", 14, 0, 0, 37, 23, 74
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/SideNavButtons/RoomsButton.tsx", "TypeScript JSX", 43, 0, 0, 21, 12, 76
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Buttons/Buttons-User/Upgrade.tsx", "TypeScript JSX", 8, 0, 0, 0, 1, 9
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/LoginAndSignUp/LoginAndSignUpLayout.tsx", "TypeScript JSX", 17, 0, 0, 0, 5, 22
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/LoginAndSignUp/OTPInput.tsx", "TypeScript JSX", 84, 0, 0, 2, 10, 96
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Modals/AddEditorModal.tsx", "TypeScript JSX", 95, 0, 0, 5, 16, 116
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Modals/CreateRoomModal.tsx", "TypeScript JSX", 79, 0, 0, 4, 9, 92
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Modals/UploadToChannelModal.tsx", "TypeScript JSX", 134, 0, 0, 0, 19, 153
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Modals/UploadVideoModal.tsx", "TypeScript JSX", 125, 0, 0, 10, 26, 161
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Room/Room Components/AddEditor.tsx", "TypeScript JSX", 24, 0, 0, 0, 8, 32
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Room/Room Components/ChatBox.tsx", "TypeScript JSX", 39, 0, 0, 1, 13, 53
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Room/Room Components/EditedVersionsBox.tsx", "TypeScript JSX", 10, 0, 0, 0, 1, 11
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Room/Room Components/VideoBox.tsx", "TypeScript JSX", 40, 0, 0, 0, 8, 48
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Room/Room Components/VideoPlayer.tsx", "TypeScript JSX", 165, 0, 0, 0, 18, 183
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Room/Room Components/customroomstyle.css", "CSS", 0, 11, 0, 0, 1, 12
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Room/Room Container/InvitedRoom.tsx", "TypeScript JSX", 74, 0, 0, 5, 24, 103
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/Room/Room Container/Room.tsx", "TypeScript JSX", 74, 0, 0, 5, 24, 103
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/SideNav Components/cssforsidenav.css", "CSS", 0, 9, 0, 0, 1, 10
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/SideNav.tsx", "TypeScript JSX", 35, 0, 0, 0, 7, 42
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/SideNavNew.tsx", "TypeScript JSX", 138, 0, 0, 1, 11, 150
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/ui/global.css", "CSS", 0, 69, 0, 2, 17, 88
+"Total", "-", 1471, 89, -99, 97, 293, 1851

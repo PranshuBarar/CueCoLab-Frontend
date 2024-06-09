@@ -1,0 +1,41 @@
+Date : 2024-05-20 10:25:17
+Directory : /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/interfaces
+Total : 11 files,  -342 codes, -420 comments, -255 blanks, all -1017 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| TypeScript     |          1 |         99 |          9 |         25 |        133 |
+| TypeScript JSX |         10 |       -441 |       -429 |       -280 |     -1,150 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                                   |         11 |       -342 |       -420 |       -255 |     -1,017 |
+| . (Files)                                                                                                                                                           |          1 |         99 |          9 |         25 |        133 |
+| ..                                                                                                                                                                  |         10 |       -441 |       -429 |       -280 |     -1,150 |
+| ../contexts                                                                                                                                                         |         10 |       -441 |       -429 |       -280 |     -1,150 |
+| ../contexts (Files)                                                                                                                                                 |          6 |       -259 |       -356 |       -187 |       -802 |
+| ../contexts/AllInsideRoomContexts                                                                                                                                   |          4 |       -182 |        -73 |        -93 |       -348 |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                                                                            | language       | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/ChatsContext.tsx         | TypeScript JSX |          0 |          0 |         -1 |         -1 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/CurrentRoomIdContext.tsx | TypeScript JSX |        -22 |          0 |         -6 |        -28 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/ParticipantsContext.tsx  | TypeScript JSX |        -53 |          0 |        -19 |        -72 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/VideosContext.tsx        | TypeScript JSX |       -107 |        -73 |        -67 |       -247 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AuthContext.tsx                                | TypeScript JSX |        -25 |          0 |         -5 |        -30 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/DestinationContext.tsx                         | TypeScript JSX |        -46 |          0 |        -10 |        -56 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/EmailContext.tsx                               | TypeScript JSX |        -21 |        -13 |         -5 |        -39 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/RoomInvitesContext.tsx                         | TypeScript JSX |        -52 |          0 |        -21 |        -73 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/RoomSummaryContext.tsx                         | TypeScript JSX |        -47 |        -87 |        -38 |       -172 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/UserAccountDetailsContext.tsx                  | TypeScript JSX |        -68 |       -256 |       -108 |       -432 |
+| /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/interfaces/types.ts                                     | TypeScript     |         99 |          9 |         25 |        133 |
+| Total                                                                                                                                                               |                |       -342 |       -420 |       -255 |     -1,017 |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

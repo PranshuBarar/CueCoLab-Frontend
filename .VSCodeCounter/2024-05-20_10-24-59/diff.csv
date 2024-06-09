@@ -1,0 +1,25 @@
+"filename", "language", "TypeScript JSX", "comment", "blank", "total"
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/layout.tsx", "TypeScript JSX", -23, -2, -2, -27
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/login/code/page.tsx", "TypeScript JSX", -27, 0, -4, -31
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/login/page.tsx", "TypeScript JSX", -74, -4, -7, -85
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/login/redirect/page.tsx", "TypeScript JSX", -34, 0, -4, -38
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/page.tsx", "TypeScript JSX", -7, 0, 0, -7
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/signup/page.tsx", "TypeScript JSX", -73, -4, -8, -85
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/dashboard/destinations/page.tsx", "TypeScript JSX", -72, 0, -11, -83
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/dashboard/page.tsx", "TypeScript JSX", -59, 0, -7, -66
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/layout.tsx", "TypeScript JSX", -54, 0, -3, -57
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/page.tsx", "TypeScript JSX", -21, 0, -9, -30
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/room_invites/[roomId]/page.tsx", "TypeScript JSX", -8, 0, -3, -11
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/room_invites/page.tsx", "TypeScript JSX", -79, 0, -11, -90
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/rooms/[roomId]/page.tsx", "TypeScript JSX", -8, 0, -4, -12
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/ChatsContext.tsx", "TypeScript JSX", 0, 0, 1, 1
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/CurrentRoomIdContext.tsx", "TypeScript JSX", 22, 0, 6, 28
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/ParticipantsContext.tsx", "TypeScript JSX", 53, 0, 19, 72
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AllInsideRoomContexts/VideosContext.tsx", "TypeScript JSX", 107, 73, 67, 247
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/AuthContext.tsx", "TypeScript JSX", 25, 0, 5, 30
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/DestinationContext.tsx", "TypeScript JSX", 46, 0, 10, 56
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/EmailContext.tsx", "TypeScript JSX", 21, 13, 5, 39
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/RoomInvitesContext.tsx", "TypeScript JSX", 52, 0, 21, 73
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/RoomSummaryContext.tsx", "TypeScript JSX", 47, 87, 38, 172
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/contexts/UserAccountDetailsContext.tsx", "TypeScript JSX", 68, 256, 108, 432
+"Total", "-", -98, 419, 207, 528

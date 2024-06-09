@@ -1,0 +1,15 @@
+"filename", "language", "TypeScript JSX", "comment", "blank", "total"
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/layout.tsx", "TypeScript JSX", 23, 2, 2, 27
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/login/code/page.tsx", "TypeScript JSX", 27, 0, 4, 31
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/login/page.tsx", "TypeScript JSX", 74, 4, 7, 85
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/login/redirect/page.tsx", "TypeScript JSX", 34, 0, 4, 38
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/page.tsx", "TypeScript JSX", 7, 0, 0, 7
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/signup/page.tsx", "TypeScript JSX", 73, 4, 8, 85
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/dashboard/destinations/page.tsx", "TypeScript JSX", 48, 17, 15, 80
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/dashboard/page.tsx", "TypeScript JSX", 59, 0, 7, 66
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/layout.tsx", "TypeScript JSX", 51, 0, 4, 55
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/page.tsx", "TypeScript JSX", 21, 0, 9, 30
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/room_invites/[roomId]/page.tsx", "TypeScript JSX", 8, 0, 3, 11
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/room_invites/page.tsx", "TypeScript JSX", 79, 0, 11, 90
+"/home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app/user/rooms/[roomId]/page.tsx", "TypeScript JSX", 8, 0, 4, 12
+"Total", "-", 512, 27, 78, 617

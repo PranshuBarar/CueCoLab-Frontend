@@ -1,0 +1,25 @@
+# Diff Summary
+
+Date : 2024-05-20 10:24:44
+
+Directory /home/pranshubarar/Project Integration files /CueCollab Files/CueCollabProject/CueCollab/CueCollab-Frontend/app
+
+Total : 2 files,  27 codes, -17 comments, -5 blanks, all 5 lines
+
+[Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)
+
+## Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| TypeScript JSX | 2 | 27 | -17 | -5 | 5 |
+
+## Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 2 | 27 | -17 | -5 | 5 |
+| user | 2 | 27 | -17 | -5 | 5 |
+| user (Files) | 1 | 3 | 0 | -1 | 2 |
+| user/dashboard | 1 | 24 | -17 | -4 | 3 |
+| user/dashboard/destinations | 1 | 24 | -17 | -4 | 3 |
+
+[Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)
