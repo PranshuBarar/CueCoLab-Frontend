@@ -37,7 +37,7 @@ yarn-error.log*
 next-env.d.ts
 
 # ignore ui folder
-/ui/
+# /ui/
 
 # ignore context folder
-/contexts/AllInsideRoomContexts/
+# /contexts/AllInsideRoomContexts/

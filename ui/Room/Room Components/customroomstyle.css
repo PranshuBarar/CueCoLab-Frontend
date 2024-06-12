@@ -1,0 +1,12 @@
+#chatbox::-webkit-scrollbar-thumb,
+textarea::-webkit-scrollbar-thumb {
+    background-color: rgb(9, 9, 66);
+    border: 4px solid transparent;
+    border-radius: 20px;
+    background-clip: padding-box;
+}
+
+#chatbox::-webkit-scrollbar,
+textarea::-webkit-scrollbar {
+    width: 16px;
+}
