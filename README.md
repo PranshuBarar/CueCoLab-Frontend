@@ -70,7 +70,15 @@ Starting on March 11th, 2024, my journey began with learning front-end developme
 6. Lambda
 
 ## Architectures Used
-I implemented several AWS architectures involving ECS Fargate, EventBridge, and more. <!-- If you have images, you can insert them here. -->
+I implemented several AWS architectures involving ECS Fargate, EventBridge, and more.
+
+### AWS Architecture for Video Transcoding
+![cuecolab architecture finalized22 drawio](https://github.com/PranshuBarar/CueCoLab-Frontend/assets/117909106/fda21a46-7933-4b2f-af54-a8a4f0b26572)
+
+### AWS Architecture for Uploading Video From CueCoLab Room To YouTube Channel
+![VideoUploadToChannelDiagram](https://github.com/PranshuBarar/CueCoLab-Frontend/assets/117909106/df805bf0-0900-4ecc-910a-fe8daad564f1)
+
+
 
 ## Join the Beta
 Currently, CueCoLab's direct video publish feature (from CueCoLab Room to YouTube Channel) is in its testing phase with availability for up to 100 users. Interested? Provide your Gmail ID associated with your YouTube channel to join the beta.
