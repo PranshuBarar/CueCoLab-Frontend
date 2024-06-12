@@ -73,7 +73,9 @@ Starting on March 11th, 2024, my journey began with learning front-end developme
 I implemented several AWS architectures involving ECS Fargate, EventBridge, and more. <!-- If you have images, you can insert them here. -->
 
 ## Join the Beta
-Currently, CueCoLab is in its testing phase with availability for up to 100 users. Interested? Provide your Gmail ID associated with your YouTube channel to join the beta.
+Currently, CueCoLab's direct video publish feature (from CueCoLab Room to YouTube Channel) is in its testing phase with availability for up to 100 users. Interested? Provide your Gmail ID associated with your YouTube channel to join the beta.
+
+You can contact me at support@cuecolab.com or pranshubarar1851996@gmail.com
 
 ---
 
