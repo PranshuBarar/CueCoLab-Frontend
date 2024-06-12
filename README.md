@@ -18,25 +18,25 @@ Welcome to [CueCoLab](http://cuecolab.com), a platform designed to streamline co
 ## Introduction
 I coded 15 hours/day for 3 months and developed a SaaS product, CueCoLab, to address specific challenges in the content creation industry. Check it out here: [CueCoLab](https://cuecolab.com).
 
-## Problems Faced by Content Creators
+## Problems Content Creators Face
 Content creators, especially YouTube channel owners, encounter several issues:
-- **Connectivity Issues:** Frequent traveling often leads to poor internet connectivity, making it difficult to download and upload large video files.
-- **Security Concerns:** Reluctance to provide direct editing access to others due to security risks.
-- **Inefficiency:** The need to manually download and upload videos is time-consuming and cumbersome.
+- **Connectivity Issues:** A YouTube channel owner frequently travels and faces challenges with internet connectivity, which hampers the ability to download and upload large video files edited by other people.
+- **Security Concerns:** The channel owner is reluctant to give direct editing access to others on their YouTube channel due to security concerns.
+- **Inefficiency:** The current process involves manual effort where the channel owner must download each video and then upload it to YouTube, which is inefficient and inconvenient.
 
-## Solutions Provided by CueCoLab
-CueCoLab addresses these challenges through:
-- **Intermediate Platform:** Editors can upload videos directly to CueCoLab Room.
-- **Video Pre-upload Playback:** Channel owners can review videos on CueCoLab before final upload.
-- **YouTube Integration:** Direct publishing to YouTube via CueCoLab using YouTube’s API.
-- **Control and Security:** Channel owner retains full control with approval required for each video.
-- **Notification System:** Upcoming feature to approve uploads remotely without direct file handling.
-
+## How I solved the problem by building CueCoLab
+- **Intermediate Platform:** CueCoLab serves as an intermediary platform where video editors can upload finished videos directly in the CueCoLab Room.
+- **Video Pre-upload Playback:** Before finalizing the upload, the channel owner can play and review the video directly on CueCoLab, ensuring it meets their standards and preferences.
+- **YouTube Integration:** CueCoLab is integrated with YouTube, allowing videos uploaded in the CueCoLab Room to be directly published to the channel. CueCoLab utilizes YouTube’s API for publishing videos to channel, ensuring that the process is as seamless as possible.
+- **Control and Security:** The channel owner retains full control over the publication process. Each video upload by an editor requires the channel owner’s approval before it goes live on YouTube.
+- **Notification System:** (This is not implemented yet but in the pipeline) The approval process is streamlined through notifications (like WhatsApp or Slack), allowing the channel owner to approve uploads remotely without needing to handle the video files directly.
+- **Storage and Handling:** Videos are temporarily stored on CueCoLab Room (shared workspace), reducing the need for the channel owner to download large files.
+  
 ## Benefits of Using CueCoLab
 Using CueCoLab offers significant advantages:
-- **Efficiency:** Drastically cuts down the time needed for managing video uploads.
-- **Security:** Ensures that uploads are fully authorized.
-- **Convenience:** Facilitates remote management of content, ideal for travel and poor connectivity.
+- **Efficiency:** Significantly reduces the time and effort required by the channel owner to manage video uploads.
+- **Security:** Ensures that the channel owner has final say over what content gets published, preventing unauthorized uploads.
+- **Convenience:** Allows the channel owner to approve video uploads from anywhere, addressing the inconvenience of traveling and poor internet access.
 
 ## Development Journey
 Starting on March 11th, 2024, my journey began with learning front-end development from scratch:
