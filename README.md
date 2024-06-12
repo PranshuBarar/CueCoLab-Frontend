@@ -2,8 +2,7 @@
 
 Welcome to [CueCoLab](http://cuecolab.com), a platform designed to streamline collaboration between content creators and their editors by providing a shared workspace where efficiency, security, and convenience are the cornerstones.
 
-(CueCoLab Interface)(https://github.com/PranshuBarar/CueCoLab-Frontend/assets/117909106/e5843a8d-ad69-419e-9e89-16fed44195c3
-)  <!-- If you have an image, replace 'link_to_image_here' with the URL to the image. -->
+[CueCoLab Interface](https://github.com/PranshuBarar/CueCoLab-Frontend/assets/117909106/e5843a8d-ad69-419e-9e89-16fed44195c3)  <!-- If you have an image, replace 'link_to_image_here' with the URL to the image. -->
 
 ## Table of Contents
 - [Introduction](#introduction)
